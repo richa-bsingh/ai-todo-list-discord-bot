@@ -1,0 +1,1 @@
+worker: python discord_todo_bot.py
